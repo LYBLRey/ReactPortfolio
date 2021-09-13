@@ -33,8 +33,9 @@ I learned how to create a header, nav, footer, add images to cards properly (use
 
 - https://www.canva.com/colors/color-wheel/
 - https://create-react-app.dev/docs/adding-images-fonts-and-files/
+- https://create-react-app.dev/docs/deployment/#github-pages
 - https://cloudinary.com/
--
+- https://mixstersite.wordpress.com/2019/02/03/solved-module-build-failed-browserslisterror-unknown-browser-query-dead-react-npm/
 
 ## License
 
