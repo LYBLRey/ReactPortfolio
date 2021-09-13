@@ -1,0 +1,12 @@
+.container {
+  display: flex;
+  color: white;
+  align-items: center;
+  justify-content: center;
+  
+}
+
+.form {
+  padding-top: 150px;
+  width: 250px;
+}

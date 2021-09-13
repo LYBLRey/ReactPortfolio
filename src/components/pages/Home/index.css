@@ -1,0 +1,15 @@
+.container {
+  display: flex;
+  color: white;
+  align-items: center;
+  justify-content: center;
+}
+
+.my-name {
+  font-size: 5em;
+}
+
+.home {
+  padding-top: 150px;
+  width: 250px;
+}

@@ -1,0 +1,52 @@
+.container {
+  padding: 50px, 50px;
+  display: flex;
+  color: white;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.form {
+  padding-top: 250px;
+  width: 250px;
+}
+
+.card-container {
+  display: flex;
+  justify-content: center;
+}
+
+.cardHeader {
+  background-color: #4b177f;
+  height: 45px;
+  vertical-align: middle;
+  color: white;
+  padding-top: 10px;
+  padding-left: 10px;
+}
+
+.card {
+  width: 250px;
+  margin: 10px;
+  justify-content: center;
+}
+
+.link-buttons {
+  display: flex;
+  justify-content: center;
+  background-color: #4b177f;
+}
+.link-buttons a {
+  padding-left: 25px;
+  padding-right: 25px;
+  background-color: #4b177f;
+  border-radius: 50px;
+}
+
+.card-body {
+  background-color: #4b177f;
+}
+.text {
+  color: white;
+}

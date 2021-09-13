@@ -1,0 +1,16 @@
+.profile {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+.site-content {
+  flex: 1;
+  background: blue;
+  background: linear-gradient(
+    90deg,
+    rgb(214, 39, 106) 0%,
+    rgb(76, 0, 254) 100%,
+    rgb(234, 0, 255) 100%
+  );
+}

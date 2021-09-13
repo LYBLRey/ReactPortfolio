@@ -1,0 +1,48 @@
+.nav {
+  background-color: purple;
+  color: aqua;
+  height: 50px;
+  display: flex;
+  flex-direction: column;
+}
+a:link {
+  text-decoration: none;
+  background-color: none;
+  color: aqua;
+}
+
+a:hover {
+  text-decoration: underline;
+  background-color: none;
+  color: aqua;
+}
+
+a:active {
+  color: aqua;
+  text-decoration: underline;
+  background-color: none;
+}
+
+a:visited {
+  color: aqua;
+  text-decoration: none;
+  background-color: none;
+}
+
+.nav-ul {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  list-style: none;
+  background-color: purple;
+  margin: 0;
+}
+
+.nav-li {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  list-style: none;
+  background-color: purple;
+  margin: 0;
+}
